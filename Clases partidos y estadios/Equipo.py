@@ -1,5 +1,5 @@
-class Equipo ():
-    def __ini__(self, id, codeFIFA, pais, group):
+class Equipo():
+    def __init__(self, id, codeFIFA, pais, group):
         self.id = id
         self.codeFIFA = codeFIFA
         self.pais = pais
